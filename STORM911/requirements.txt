@@ -1,0 +1,21 @@
+# GUI Dependencies
+customtkinter>=5.2.0
+Pillow>=10.0.0
+tkinter-tooltip>=2.1.0
+
+# HTTP/API Dependencies
+requests>=2.31.0
+urllib3>=2.0.4
+certifi>=2023.7.22
+
+# PDF Generation
+reportlab>=4.0.4
+
+# Email Validation
+email-validator>=2.0.0
+
+# Date/Time Handling
+python-dateutil>=2.8.2
+
+# Utility Libraries
+typing-extensions>=4.7.1
